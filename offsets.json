@@ -1,1 +1,28 @@
-offsets
+{
+  "module": {
+    "m_World": 0,
+    "m_ReplayInterFace": 0,
+    "m_ViewPort": 0,
+    "m_BlipList": 0,
+    "m_CamGameplayDirector": 0,
+    "m_HandleBullet": "0x102D550",
+    "godmode": 0,
+    "GameplayCamHolder": 0,
+    "GameplayCamTarget": 0,
+    "m_LocalPlayer": 0,
+    "m_CitizenNamesModBase": 0,
+    "m_NetIdToNamesEntry": 0
+  },
+  "struct": {
+    "m_MaxHealth": "0x284",
+    "m_WeaponManager": "0x10B8",
+    "m_EntityType": "0x1098",
+    "m_LastVehicle": "0xD10",
+    "m_PlayerInfo": "0x10A8",
+    "m_FragInst": "0x1430",
+    "m_PlayerId": "0xE8",
+    "m_Armor": "0x150C",
+    "m_PedFlag": "0x1444",
+    "m_VehicleGravity": 0
+  }
+}
